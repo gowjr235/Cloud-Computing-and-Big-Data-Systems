@@ -1,0 +1,9 @@
+Jaehwan0 jlimad mark: 
+====word count====
+====log analysis====
+unfound: log_analysis.py
+Jaehwan0 ﻿jlimad mark: 
+====word count====
+0/2
+====log analysis====
+2/2

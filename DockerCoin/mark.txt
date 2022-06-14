@@ -1,0 +1,9 @@
+Total score: 5/6
+=== Report the performance of DockerCoins with different number of workers: 2/2 ===
+====== Fill out the table: 1/1 ======
+====== Explanation: 1/1 ======
+=== Detect latency and find the bottleneck component: 1/1 ===
+====== Fill out the table: 0.5/0.5 ======
+====== Answer: 0.5/0.5 ======
+=== Upload the screenshot of WebUI: 1/1 ===
+=== Reduce the fluctuation of the HPA: 1/2 ===
